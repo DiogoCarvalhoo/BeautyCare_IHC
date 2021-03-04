@@ -14,3 +14,15 @@ Rafael Baptista<br/>
 
 Universidade de Aveiro<br/>
 Interação Humano-Computador
+
+====
+
+Para testar a app tem dois logins possíveis (ou pode criar um próprio, no entanto tem que adicionar tudo manualmente para ver as funcionalidades).
+
+Login lado cliente:
+Email: eu@gmail.com
+password: eu
+
+Login lado Proprietário:
+Email: dono@gmail.com
+password: dono123
