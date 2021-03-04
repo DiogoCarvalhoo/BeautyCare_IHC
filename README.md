@@ -19,10 +19,10 @@ Interação Humano-Computador
 
 Para testar a app tem dois logins possíveis (ou pode criar um próprio, no entanto tem que adicionar tudo manualmente para ver as funcionalidades).
 
-Login lado cliente:
-Email: eu@gmail.com
-password: eu
+Login lado cliente:<br/>
+Email: eu@gmail.com<br/>
+password: eu<br/>
 
-Login lado Proprietário:
-Email: dono@gmail.com
-password: dono123
+Login lado Proprietário:<br/>
+Email: dono@gmail.com<br/>
+password: dono123<br/>
