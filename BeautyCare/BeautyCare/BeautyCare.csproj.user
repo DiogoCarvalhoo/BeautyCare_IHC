@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="adicionarServico.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ChooseAccountType.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Contacts.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="favorites.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HomePage_Cliente.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="institutoPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="institutossearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="meusInstitutos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MinhasReservas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PersonalInformation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="registarInstituto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegisterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="reservasDonos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="servicePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="servicossearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="adicionarServico.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChooseAccountType.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Contacts.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="favorites.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HomePage_Cliente.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="institutoPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="institutossearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="meusInstitutos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MinhasReservas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PersonalInformation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="registarInstituto.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegisterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="reservasDonos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="servicePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="servicossearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

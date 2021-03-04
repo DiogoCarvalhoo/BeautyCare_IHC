@@ -1,0 +1,212 @@
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.exe
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.deps.json
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.json
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.dev.json
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.pdb
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.cache
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.lref
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.g.resources
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfo.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.pdb
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csproj.CopyComplete
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.baml
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csprojAssemblyReference.cache
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.cache
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.lref
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.pdb
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.exe
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.deps.json
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.json
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.dev.json
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.pdb
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.baml
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.g.resources
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfoInputs.cache
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfo.cs
+C:\Users\thedi\OneDrive\Desktop\Universidade\Ihc\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csproj.CopyComplete
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.exe
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.deps.json
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.json
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.dev.json
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.pdb
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.cache
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.lref
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.baml
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.g.resources
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfo.cs
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csproj.CopyComplete
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\diogo\Desktop\Nova pasta\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.pdb
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.g.cs
+C:\Users\diogo\Desktop\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.exe
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.deps.json
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.json
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.runtimeconfig.dev.json
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\BeautyCare.pdb
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.cache
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare_MarkupCompile.lref
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\adicionarServico.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\ChooseAccountType.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\Contacts.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\favorites.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\HomePage_Cliente.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutoPage.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\institutossearch.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\meusInstitutos.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\MinhasReservas.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\PersonalInformation.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\registarInstituto.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\RegisterPage.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\reservasDonos.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicePage.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\servicossearch.baml
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.g.resources
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfoInputs.cache
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.AssemblyInfo.cs
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.csproj.CopyComplete
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.dll
+C:\Users\diogo\Desktop\Uni\2ºAno_2ºSemestre\IHC\Projeto\Protótipo\BeautyCare\BeautyCare\obj\Debug\netcoreapp3.1\BeautyCare.pdb

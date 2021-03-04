@@ -1,0 +1,57 @@
+﻿<Page x:Class="BeautyCare.adicionarServico"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeautyCare"
+      mc:Ignorable="d" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="adicionarServico" Height="680" Width="425" Background="LightCyan">
+
+    <Grid>
+        <Label Content="Adicionar Serviço" Margin="41,31,11,594" FontSize="36" FontWeight="Bold"/>
+        <Rectangle Stroke="DarkBlue" Margin="42,86,45,593" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <RichTextBox x:Name="nomeBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="181" Margin="45,158,0,0"  />
+        <Label Content="Tipo Serviço" Margin="41,120,216,527" FontSize="20" FontWeight="Bold"/>
+        <RichTextBox  x:Name="precoBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="81" Margin="42,272,0,0"/>
+        <Label Content="Preço" Margin="39,210,218,434" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="ConfirmButton" Margin="248,582,55,66" Click="ConfirmButton_Click" FontSize="16">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Confirmar" PreviewMouseLeftButtonDown="ConfirmButton_Click" Width="74" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Done" Width="18" Height="22"/>
+            </StackPanel>
+        </Button>
+        <RichTextBox x:Name="descricaoBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="341" Margin="39,380,0,0" Height="158"/>
+        <Label Content="Descrição" Margin="39,322,218,322" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="CancelButton" Margin="62,582,241,66" Click="CancelButton_Click" FontSize="16">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Cancelar" RenderTransformOrigin="-1.742,2.197" PreviewMouseLeftButtonDown="CancelButton_Click" Width="65" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Clear" Width="18" Height="25"/>
+            </StackPanel>
+        </Button>
+        <Button Margin="236,300,35,348" Click="ChangePhoto_Click">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Adicionar Foto" RenderTransformOrigin="-1.742,2.197" Width="97" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Publish" Width="18" Height="21"/>
+            </StackPanel>
+        </Button>
+        <Grid x:Name="servicofotogrid" Margin="236,135,27,399">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="14*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <ImageBrush x:Name="servicofoto" ImageSource="Images/defaultInstituto.jpg"></ImageBrush>
+            </Grid.Background>
+        </Grid>
+        <Label Content="€" Margin="123,261,234,383" FontSize="20" FontWeight="Bold"/>
+    </Grid>
+</Page>

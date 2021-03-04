@@ -1,0 +1,65 @@
+﻿<Page x:Class="BeautyCare.PersonalInformation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeautyCare"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="Personalinformation_Page" Height="680" Width="425" Background="LightCyan">
+
+    <Grid>
+        <Button x:Name="ButtonVoltar" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Click="ButtonVoltar_Click">
+            <materialDesign:PackIcon Foreground="#000000" Kind="ArrowLeft" Width="25" Height="25"/>
+        </Button>
+        <Label Content="Perfil" Margin="42,65,10,562" FontSize="36" FontWeight="Bold"/>
+        <Rectangle Stroke="DarkBlue" Margin="42,118,45,561" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Ellipse Height="178" Width="169" x:Name="userfotoelipse" Margin="30,124,226,378">
+            <Ellipse.Fill>
+                <ImageBrush x:Name="userfoto" ImageSource="Images/userdefault.png"></ImageBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+
+
+        <Label x:Name="nomeUtilizador" Content="Rui Santos" Margin="228,194,7,448" FontSize="22" FontWeight="Bold"/>
+        <RichTextBox IsReadOnly="True" x:Name="EmailBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="338" Margin="42,413,0,0" PreviewMouseLeftButtonDown="EmailBox_PreviewMouseLeftButtonDown"  />
+        <Label Content="Email" Margin="38,379,219,272" FontSize="18" FontWeight="Bold"/>
+        <RichTextBox IsReadOnly="True" x:Name="Localidade" HorizontalAlignment="Left" VerticalAlignment="Top" Width="338" Margin="42,505,0,0" PreviewMouseLeftButtonDown="Localidade_PreviewMouseLeftButtonDown"/>
+        <Label Content="Localidade" Margin="38,471,219,180" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="EditarButton" Margin="169,586,169,62" Click="Button_Click">
+            <StackPanel Orientation="Horizontal">
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Edit" Width="18" Height="18"/>
+                <TextBlock Text="Editar" RenderTransformOrigin="-1.742,2.197" />
+            </StackPanel>
+        </Button>
+        <Button  Margin="42,307,245,341" Click="Button_Click_1">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Alterar Foto" RenderTransformOrigin="-1.742,2.197" Width="79" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Publish" Width="18" Height="18"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="CancelarButton" Margin="31,587,245,61" Visibility="Collapsed" Click="CancelarButton_Click">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Cancelar" RenderTransformOrigin="-1.742,2.197" Width="65" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Clear" Width="18" Height="25"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="ConfirmarButton" Margin="241,587,35,61" Visibility="Collapsed" Click="ConfirmarButton_Click">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Confirmar" Width="74" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Done" Width="18" Height="22"/>
+            </StackPanel>
+        </Button>
+
+
+    </Grid>
+</Page>

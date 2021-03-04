@@ -1,0 +1,70 @@
+﻿<Page x:Class="BeautyCare.institutoPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeautyCare"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      Title="institutoPage" Height="680" Width="425" Background="White">
+
+    <Grid Background="LightCyan">
+        <Button x:Name="ButtonVoltar" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Click="ButtonVoltar_Click">
+            <materialDesign:PackIcon  Foreground="#000000" Kind="ArrowLeft" Width="25" Height="25"/>
+        </Button>
+        <Grid x:Name="ButtonAddFav" Width="129" Height="60" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,10,10,0">
+            <Label x:Name="rating" FontSize="24" Margin="10,5,10,15">?/5</Label>
+            <materialDesign:PackIcon Foreground="Gold" Kind="Star" Height="28" Width="49" Margin="65,13,0,0"/>
+            <!--<materialDesign:PackIcon x:Name="favoritos" Foreground="#000000" Kind="StarBorder" Width="40" Height="50" HorizontalAlignment="Right" />-->
+            <Label x:Name="nomeInstituto" FontSize="24" FontWeight="Bold" Margin="-266,51,10,-31" Content="Nome Instituto"/>
+        </Grid>
+        <Grid x:Name="userfotogrid" Margin="224,121,10,340">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="14*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <ImageBrush x:Name="userfoto" ImageSource="Images/defaultInstituto.jpg"></ImageBrush>
+            </Grid.Background>
+        </Grid>
+        <RichTextBox IsReadOnly="True" VerticalAlignment="Top" x:Name="descricaoServico" Height="219" Margin="10,121,213,0">
+            <RichTextBox.Resources>
+                <Style TargetType="{x:Type Paragraph}">
+                    <Setter Property="Margin" Value="0"/>
+                </Style>
+            </RichTextBox.Resources>
+        </RichTextBox>
+
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15" />
+                <ColumnDefinition Width="400" />
+                <ColumnDefinition Width="10" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="370" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="212" />
+                <RowDefinition Height="20" />
+            </Grid.RowDefinitions>
+            <Rectangle Stroke="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Grid.Column="1" Margin="197,228,0,32" Grid.RowSpan="3" Width="1">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+            <Label Grid.Row="1" Grid.Column="1" FontSize="20" FontWeight="Bold" Content="Serviço" Height="35" Width="100" Margin="50,8,250,7"></Label>
+            <Label Grid.Row="1" Grid.Column="1" FontSize="20" FontWeight="Bold" Content="Preço"  Height="35" Width="100" Margin="236,8,64,7"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="2" Height="Auto" Grid.ColumnSpan="3" >
+                <StackPanel x:Name="painel" Orientation="Vertical"  Margin="0,0,0,0" >
+
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,92 @@
+﻿<Page x:Class="BeautyCare.registarInstituto"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeautyCare"
+      mc:Ignorable="d" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="registarInstituto" Height="680" Width="425" Background="LightCyan">
+
+
+
+    <Grid RenderTransformOrigin="0.36,0.503">
+        <Label Content="Registar Instituto" Margin="39,28,13,597" FontSize="36" FontWeight="Bold"/>
+        <Rectangle Stroke="DarkBlue" Margin="43,88,44,591" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <RichTextBox x:Name="nomeBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="164" Margin="45,139,0,0"   />
+        <Label Content="Nome Instituto" Margin="43,110,214,541" FontSize="20" FontWeight="Bold"/>
+        <RichTextBox x:Name="localizacaoBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="170" Margin="43,205,0,0" />
+        <Label Content="Localização" Margin="44,171,213,480" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="EditarButton" Margin="248,602,55,46"  FontSize="16" Click="ConfirmButton_Click">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Confirmar" RenderTransformOrigin="-1.742,2.197" PreviewMouseLeftButtonDown="ConfirmButton_PreviewMouseLeftButtonDown" Width="74" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Done" Width="18" Height="22"/>
+            </StackPanel>
+        </Button>
+        <RichTextBox x:Name="contactoBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="165" Margin="46,278,0,0" />
+        <Label Content="Contacto" Margin="43,241,215,399" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Serviços" Margin="39,409,218,237" FontSize="20" FontWeight="Bold"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Height="Auto" Margin="43,443,48,147" >
+            <StackPanel x:Name="painel" Orientation="Vertical"  Margin="0,0,0,0" Width="316" Height="530" >
+                <!--<Grid Height="40" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200" />
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="50" />
+                    </Grid.ColumnDefinitions>
+                    -->
+                <!--<TextBlock Grid.Column="0" Text="Serviço2" VerticalAlignment="Center" HorizontalAlignment="Left" />-->
+                <!--<Button Grid.Column="2" Background="#FF60C4E5" x:Name="removeServico2" VerticalAlignment="Center" HorizontalAlignment="Left"  >
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Delete" Width="18" Height="18"/>
+                        </StackPanel>
+                    </Button>-->
+                <!--
+                    <Button Grid.Column="1" Background="#FF60C4E5" x:Name="editarServico2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="50"  >
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Edit" Width="18" Height="18"/>
+                        </StackPanel>
+                    </Button>
+                </Grid>-->
+            </StackPanel>
+        </ScrollViewer>
+        <Button Background="#FF60C4E5" x:Name="adicionarServico" Margin="285,538,55,110" Click="AddServ_Click" >
+            <StackPanel Orientation="Horizontal">
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Add" Width="18" Height="18"/>
+                <TextBlock Text="Add" RenderTransformOrigin="-1.742,2.197" PreviewMouseLeftButtonDown="AddServ_Click" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="EditarButton_Copy" Margin="66,602,238,46" FontSize="16" Click="CancelarButton_Click">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Cancelar" RenderTransformOrigin="-1.742,2.197" PreviewMouseLeftButtonDown="CancelarButton_Click" Width="65" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Clear" Width="18" Height="25"/>
+            </StackPanel>
+        </Button>
+        <Button Margin="238,292,44,356" Click="ChangePhoto_Click">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock Text="Adicionar Foto" RenderTransformOrigin="-1.742,2.197" Width="95" />
+                <materialDesign:PackIcon Foreground="#FFFFFF" Kind="Publish" Width="18" Height="21"/>
+            </StackPanel>
+        </Button>
+        <Grid x:Name="institutofotogrid" Margin="230,129,33,405">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="14*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <ImageBrush x:Name="institutofoto" ImageSource="Images/defaultInstituto.jpg"/>
+            </Grid.Background>
+        </Grid>
+        <RichTextBox x:Name="descricaoBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="351" Margin="39,363,0,0" Height="41"/>
+        <Label Content="Descrição" Margin="39,314,218,330" FontSize="20" FontWeight="Bold"/>
+
+    </Grid>
+</Page>

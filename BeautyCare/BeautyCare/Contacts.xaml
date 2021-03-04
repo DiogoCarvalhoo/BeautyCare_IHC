@@ -1,0 +1,51 @@
+﻿<Page x:Class="BeautyCare.Contacts"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeautyCare"
+      mc:Ignorable="d" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="Contacts" Height="680" Width="425" Background="LightCyan">
+
+    <Grid>
+        <Button x:Name="ButtonVoltar" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Click="ButtonVoltar_Click">
+            <materialDesign:PackIcon Foreground="#000000" Kind="ArrowLeft" Width="25" Height="25"/>
+        </Button>
+        <Label Content="Contactos" Margin="42,65,10,562" FontSize="36" FontWeight="Bold"/>
+        <Rectangle Stroke="DarkBlue" Margin="42,118,45,561" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Ellipse x:Name="userfotoelipse" Margin="42,159,279,413">
+            <Ellipse.Fill>
+                <ImageBrush x:Name="userfoto" ImageSource="Images/userPhotos/euuser.jpg"></ImageBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+
+
+        <Label  Content="Diogo Carvalho" Margin="160,175,75,467" FontSize="22" FontWeight="Bold"/>
+        <Label  Content="dfac@ua.pt" Margin="160,213,75,434" FontSize="20" />
+        <Ellipse x:Name="userfotoelipse_Copy" Margin="42,286,279,286">
+            <Ellipse.Fill>
+                <ImageBrush x:Name="userfoto1" ImageSource="Images/userPhotos/fotoRicardo.jpg"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label  Content="Ricardo Cruz" Margin="160,302,75,340" FontSize="22" FontWeight="Bold"/>
+        <Label  Content="ricardo.cruz29@ua.pt" Margin="160,340,61,307" FontSize="20" />
+        <Ellipse x:Name="userfotoelipse_Copy1" Margin="42,416,279,156">
+            <Ellipse.Fill>
+                <ImageBrush x:Name="userfoto2" ImageSource="Images/userPhotos/fotoRafa.jpg"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Label  Content="Rafael Baptista" Margin="160,432,75,210" FontSize="22" FontWeight="Bold"/>
+        <Label  Content="rafaelbaptista@ua.pt" Margin="160,470,61,177" FontSize="20" />
+
+
+    </Grid>
+</Page>

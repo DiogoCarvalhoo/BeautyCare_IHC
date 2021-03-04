@@ -1,0 +1,97 @@
+﻿<Page x:Class="BeautyCare.servicossearch"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BeautyCare"
+      mc:Ignorable="d"  xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="servicosSearch" Height="680" Width="425" Background="LightCyan">
+
+    <Grid>
+        <Button x:Name="ButtonVoltar" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Left" Click="ButtonVoltar_Click"  >
+            <materialDesign:PackIcon Foreground="#000000" Kind="ArrowLeft" Width="25" Height="25"/>
+        </Button>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition Width="330" />
+                <ColumnDefinition Width="50" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="70" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="500" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="1" Grid.ColumnSpan="3" Background="LightBlue" PreviewMouseLeftButtonDown="Grid_PreviewMouseLeftButtonDown"  >
+                <Label FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="160,0,0,0">Filtrar</Label>
+                <materialDesign:PackIcon x:Name="filtericon" Foreground="#000000" Kind="FilterList" Width="29" Height="30" Margin="243,24,0,0"/>
+            </Grid>
+            <Grid x:Name="tabelatop" Grid.Row="2" Grid.Column="1">
+                <Label x:Name="precoLabel" Content="Preço" FontSize="20" FontWeight="Bold"  Margin="224,10,35,5"  />
+                <Label x:Name="servicoLabel" Content="Serviço" FontSize="20" FontWeight="Bold"   Width="100" Margin="24,10,206,0"></Label>
+                <Rectangle x:Name="retangulo" Stroke="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Margin="170,-109,0,-156" Width="2">
+                    <Rectangle.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="-1" ScaleX="-1"/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-90"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Rectangle.RenderTransform>
+                </Rectangle>
+            </Grid>
+            <ScrollViewer x:Name="scrollViewer" VerticalScrollBarVisibility="Auto" Grid.Row="3" Height="Auto" Margin="0,0,10,44" Grid.ColumnSpan="3">
+                <StackPanel x:Name="painel" Orientation="Vertical"  Margin="0,0,0,0" Width="410" >
+
+
+                </StackPanel>
+            </ScrollViewer>
+            <Grid x:Name="tabelatop_filtro" Visibility="Collapsed" Grid.Row="3" Grid.ColumnSpan="2" Margin="45,300,5,150">
+                <Label x:Name="precoLabel1" Content="Preço" FontSize="20" FontWeight="Bold"  Margin="218,12,41,2"  />
+                <Label x:Name="servicoLabel1" Content="Serviço" FontSize="20" FontWeight="Bold"   Width="100" Margin="24,10,206,0"/>
+                <Rectangle x:Name="retangulo1" Stroke="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Margin="170,-109,0,-156" Width="2">
+                    <Rectangle.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="-1" ScaleX="-1"/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-90"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Rectangle.RenderTransform>
+                </Rectangle>
+            </Grid>
+
+        </Grid>
+
+
+        <Grid x:Name="filtros" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="140" />
+                <RowDefinition Height="350" />
+                <RowDefinition Height="200" />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1" Background="LightBlue">
+                <ComboBox x:Name="tiposervico" Margin="101,33,101,0" VerticalAlignment="Top"></ComboBox>
+                <!--<ComboBox x:Name="localizacao" Margin="101,92,101,0" VerticalAlignment="Top"></ComboBox>-->
+                <TextBox x:Name="localizacaoBox" Margin="101,92,101,0" VerticalAlignment="Top"></TextBox>
+                <Label Margin="38,158,267,159" FontSize="17">Preço mínimo</Label>
+                <TextBox x:Name="minpreco" Margin="51,196,280,124"></TextBox>
+                <TextBox x:Name="maxpreco" Margin="269,196,62,124"></TextBox>
+                <Label Margin="256,158,49,158" FontSize="17" Content="Preço máximo"/>
+                <Button Content="Aplicar filtros" Margin="128,286,129,32" Click="Button_Click"></Button>
+                <Label Margin="182,10,183,307" FontSize="17" Content="Nome"/>
+                <Label Margin="166,66,167,251" FontSize="17" Content="Localização"/>
+            </Grid>
+
+        </Grid>
+
+        <Image Source="Images/logo2.png.png" Grid.Row="0" HorizontalAlignment="Left" Width="262" Margin="129,-13,0,593"/>
+    </Grid>
+
+
+
+</Page>

@@ -1,0 +1,71 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="euuser.jpg" />
+    <None Remove="Images\defaultInstituto.jpg" />
+    <None Remove="Images\emailIcon.png" />
+    <None Remove="Images\euuser.jpg" />
+    <None Remove="Images\institutophotos\marciagalvao.jpg" />
+    <None Remove="Images\institutophotos\MARTINA.jpg" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\logo2.png.png" />
+    <None Remove="Images\marciagalvao.jpg" />
+    <None Remove="Images\MARTINA.jpg" />
+    <None Remove="Images\passIcon.png" />
+    <None Remove="Images\ratingIcon.png" />
+    <None Remove="Images\servicedefault.png" />
+    <None Remove="Images\servicephotos\servicobarbeiro.jpg" />
+    <None Remove="Images\servicephotos\servicomanicure.jpg" />
+    <None Remove="Images\servicobarbeiro.jpg" />
+    <None Remove="Images\servicolimpezafacial.jpg" />
+    <None Remove="Images\servicomanicure.jpg" />
+    <None Remove="Images\userdefault.png" />
+    <None Remove="Images\userIcon.png" />
+    <None Remove="Images\userPhotos\euuser.jpg" />
+    <None Remove="Images\userphotos\fotoRafa.jpg" />
+    <None Remove="Images\userphotos\fotoRicardo.jpg" />
+    <None Remove="Images\userPhotos\ok.jpg" />
+    <None Remove="images\userphotos\servico1.jpg" />
+    <None Remove="Images\userphotos\servico2.jpg" />
+    <None Remove="Images\userphotos\userdefault.png" />
+    <None Remove="marciagalvao.jpg" />
+    <None Remove="MARTINA.jpg" />
+    <None Remove="servicobarbeiro.jpg" />
+    <None Remove="servicolimpezafacial.jpg" />
+    <None Remove="servicomanicure.jpg" />
+    <None Remove="userdefault.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\defaultInstituto.jpg" />
+    <Resource Include="Images\emailIcon.png" />
+    <Resource Include="Images\institutophotos\marciagalvao.jpg" />
+    <Resource Include="Images\institutophotos\MARTINA.jpg" />
+    <Resource Include="Images\logo.png" />
+    <Resource Include="Images\logo2.png.png" />
+    <Resource Include="Images\passIcon.png" />
+    <Resource Include="Images\ratingIcon.png" />
+    <Resource Include="Images\servicedefault.png" />
+    <Resource Include="Images\servicephotos\servicobarbeiro.jpg" />
+    <Resource Include="Images\servicephotos\servicolimpezafacial.jpg" />
+    <Resource Include="Images\servicephotos\servicomanicure.jpg" />
+    <Resource Include="Images\userdefault.png" />
+    <Resource Include="Images\userIcon.png" />
+    <Resource Include="Images\userPhotos\euuser.jpg" />
+    <Resource Include="Images\userphotos\fotoRafa.jpg" />
+    <Resource Include="Images\userphotos\fotoRicardo.jpg" />
+  </ItemGroup>
+
+</Project>
