@@ -1,4 +1,4 @@
-# Projeto_IHC: BeautyCare
+# Projeto_IHC: BeautyCare 2020
 
 ### Conceito:
 BeautyCare é uma aplicação desenhada com o objetivo de permitir a gestão e procura de institutos de beleza, bem como dos serviços que os mesmos oferecem, permitindo ainda ao cliente efetuar reservação.
